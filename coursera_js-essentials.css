@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-image: url("js_essentials_pics/dubai.jpg");
+    background-size: cover;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    background-position: center;
+}
+.content {
+    padding: 20px;
+}
+.card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px 0;
+}
+.img1{
+    width: 27vw;
+    height: 25vh;
+    border-radius: 6px;
+    text-align: center;
+}
+.card h3 {
+    margin-top: 10px;
+}
+.category-title {
+    margin-top: 30px;
+    font-size: 15px;
+    color: #333;
+}
+.home-outercontainer{
+    background-image: url("js_essentials_pics/bgpic.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-position: fixed;
+    padding-top: 20vh;
+}
+.box1{
+    background-color: transparent;
+    height: 80vh;
+    color: rgb(106, 103, 103);
+    box-shadow: 3px 3px 2px 2px;
+}
+.backh{
+    background-color: transparent;
+    color: rgb(245, 0, 0)
+}
